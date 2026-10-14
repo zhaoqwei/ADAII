@@ -4,11 +4,11 @@ Alternating Depth-Domain Acoustic Impedance Inversion via Phase-Shift Forward Mo
 
 
 ## Requirements
-CREWES 
+[CREWES](https://www.crewes.org/)  
 
 
 
-
+## Cite
 @article{<fill in>,
   title   = {ADDII: Alternating Depth-Domain Acoustic Impedance Inversion},
   author  = {<fill in>},
