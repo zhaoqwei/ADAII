@@ -31,6 +31,12 @@ The plotting utilities rely on the free [CREWES MATLAB Toolbox](https://www.crew
    ```
 
    or simply run `setup.m` provided in this repository (edit the path on the first line).
+   
+### 2.2 Note on third-party dependencies
+
+> **Important:** This code relies on a number of third-party functions (CREWES Toolbox, Split Bregman solver, plotting helpers, etc.). 
+If you encounter errors caused by missing or incompatible third-party functions, please **comment out or modify the non-essential parts** (mainly plotting and figure-formatting calls such as `prepfigGEO`, `colorbarson`, `plotseisZ`) — they do not affect the inversion itself. 
+For other problems, feel free to contact the author: **zhaoqwei001@163.com**.
 ## 3. Repository structure
 
 ```
