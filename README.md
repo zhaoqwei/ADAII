@@ -79,13 +79,13 @@ open ADAII.mlx          % then press "Run", or:
 
 ---
 ## 5. Workflow inside `ADAII.mlx`, step by step
-1.Forward modeling on the Marmousi model and comparison with the open-data Marmousi synthetic data.
+  1. Forward modeling on the Marmousi model and comparison with the open-data Marmousi synthetic data.
 
-2. Marmousi model simulation.
+  2. Marmousi model simulation.
 
-2.1 forward.
+  2.1 forward.
 
-2.2 test Alternating Inversion.
+  2.2 test Alternating Inversion.
 
 ## Cite
 ```bibtex
