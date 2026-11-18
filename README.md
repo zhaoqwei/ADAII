@@ -75,6 +75,7 @@ setup
  
 % 3. run the full workflow
 open ADAII.mlx          % then press "Run", or:
+```
 
 ---
 ## 5. Workflow inside `ADAII.mlx`, step by step
