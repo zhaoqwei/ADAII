@@ -8,7 +8,7 @@ The code reproduces the synthetic experiments of the paper on the Marmousi model
 
 ## Notice
 
-This code is **not fully polished or complete**, and it is **not recommended as a learning resource or as a reference to accompany a publication**. Its main value is in demonstrating how to perform phase-shift synthetic seismogram modeling in the depth domain. For the inversion method itself, we recommend studying other open-source implementations, such as ADMM-based and Bayesian inversion frameworks
+This code is not fully polished or complete, and it is not recommended as a learning resource or as a reference to accompany a publication. Its main value is in demonstrating how to perform phase-shift synthetic seismogram modeling in the depth domain. For the inversion method itself, we recommend studying other open-source implementations, such as ADMM-based and Bayesian inversion frameworks.
 ---
 ## 1. Method overview
 
