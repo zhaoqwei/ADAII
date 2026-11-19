@@ -4,8 +4,11 @@ MATLAB implementation of the method described in
 
 > Q. Zhao et al., "Alternating Depth-Domain Acoustic Impedance Inversion via Phase-Shift Forward Modeling," *IEEE Transactions on Geoscience and Remote Sensing*, <<year>>, doi: <<DOI>>.
 
-The code reproduces the synthetic experiments of the paper on the Marmousi model. Field-data examples in the paper use proprietary data and are therefore not included (see Section 8).
+The code reproduces the synthetic experiments of the paper on the Marmousi model. Field-data examples in the paper use proprietary data and are therefore not included .
 
+## Notice
+
+This code is **not fully polished or complete**, and it is **not recommended as a learning resource or as a reference to accompany a publication**. Its main value is in demonstrating how to perform phase-shift synthetic seismogram modeling in the depth domain. For the inversion method itself, we recommend studying other open-source implementations, such as ADMM-based and Bayesian inversion frameworks
 ---
 ## 1. Method overview
 
